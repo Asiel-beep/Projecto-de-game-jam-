@@ -1,0 +1,324 @@
+{
+  "name": "¿sabes_o_no_sabes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "juego 2.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+
+  "1": [
+    {
+      "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+      "opciones": ["Júpiter", "Mercurio", "Venus", "Pluton"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuántos días tiene un año común?",
+      "opciones": ["635", "366", "365", "360"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Cuál es el océano más grande del mundo?",
+      "opciones": ["Pacífico", "Índico", "Atlántico", "Ártico"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el color del cielo en un día despejado?",
+      "opciones": ["Verde", "Rojo", "Amarillo", "Azul"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuántas patas tiene una araña?",
+      "opciones": ["6", "10", "4", "8"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+      "opciones": ["Español", "Brasileño", "Portugués", "Inglés"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué animal es conocido como “el rey de la selva”?",
+      "opciones": ["Tigre", "Mercurio", "Venus", "Pluton"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el número que sigue después del 9?",
+      "opciones": ["8", "12", "10", "1"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué fruta es famosa por ser amarilla y curvada?",
+      "opciones": ["Plátano", "Piña", "Kiwi", "Manzana"],
+      "correcta": 1
+    }
+  ],
+
+
+    "2": [
+    {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Nilo", "Chagres", "Yangtsé", "Amazonas"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "opciones": ["Leonardo Da Vinci", "Vincent Van Gogh", "Leonardo DiCaprio", "Miguel Ángel"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la moneda oficial de Estados Unidos?",
+      "opciones": ["Peso", "Euro", "Dólar", "Libra"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué continente es el más grande?",
+      "opciones": ["América", "Asia", "África", "Oceanía"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el metal más utilizado para fabricar cables eléctricos?",
+      "opciones": ["Oro", "Cobre", "Plata", "Estaño"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué país tiene como capital a Tokio?",
+      "opciones": ["Japón", "Corea del Norte", "China", "Malasia"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el órgano que bombea sangre en el cuerpo humano?",
+      "opciones": ["Cerebro", "Médula osea", "Corazón", "Pulmón"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el deporte más popular del mundo?",
+      "opciones": ["Béisbol", "Voleibol", "Tenis", "Fútbol"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué número romano representa el 10?",
+      "opciones": ["IX", "D", "X", "VIII"],
+      "correcta": 3
+    }
+  ],
+
+
+  "3": [
+    {
+      "pregunta": "¿Cuál es el país con mayor población en el mundo?",
+      "opciones": ["India", "Colombia", "China", "Japón"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Quién escribió “Don Quijote de la Mancha”?",
+      "opciones": ["William Shakespears", "Miguel de Cervantes", "Edgar Allan Poe", "Agatha Christie"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo químico del oro?",
+      "opciones": ["Ag", "O", "Mg", "Au"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué océano baña las costas de Perú?",
+      "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+      "opciones": ["Júpiter", "Saturno", "Tierra", "Marte"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué año llegó Cristóbal Colón a América?",
+      "opciones": ["1492", "1536", "1412", "1821"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Argentina?",
+      "opciones": ["Córdoba", "Buenos Aires", "Mar de Plata", "Lima"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Qué instrumento mide la temperatura?",
+      "opciones": ["Cronómetro", "Barómetro", "Balanza", "Termómetro"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el idioma más hablado en el mundo?",
+      "opciones": ["Inglés", "Español", "Chino mandarín", "Portugués"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Qué animal pone huevos y tiene plumas?",
+      "opciones": ["Perro", "Gato", "Gallina", "Murciélago"],
+      "correcta": 3
+    }
+  ],
+
+
+  "4": [
+    {
+      "pregunta": "¿Cuál es la montaña más alta del mundo?",
+      "opciones": ["India", "Colombia", "China", "Japón"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Quién formuló la teoría de la relatividad?",
+      "opciones": ["William Shakespears", "Miguel de Cervantes", "Edgar Allan Poe", "Agatha Christie"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es el símbolo químico del oro?",
+      "opciones": ["Ag", "O", "Mg", "Au"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el país más pequeño del mundo?",
+      "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué vitamina se obtiene principalmente del sol?",
+      "opciones": ["Júpiter", "Saturno", "Tierra", "Marte"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el segundo planeta del sistema solar?",
+      "opciones": ["1492", "1536", "1412", "1821"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué escritor creó a Sherlock Holmes?",
+      "opciones": ["Córdoba", "Buenos Aires", "Mar de Plata", "Lima"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Canadá?",
+      "opciones": ["Cronómetro", "Barómetro", "Balanza", "Termómetro"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué elemento químico tiene el símbolo Fe?",
+      "opciones": ["Inglés", "Español", "Chino mandarín", "Portugués"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Cuál es el país con más islas en el mundo?",
+      "opciones": ["Perro", "Gato", "Gallina", "Murciélago"],
+      "correcta": 3
+    }
+  ],
+
+
+  "5": [
+    {
+      "pregunta": "¿Cuál es el desierto más grande del mundo?",
+      "opciones": ["India", "Colombia", "China", "Japón"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Quién fue el primer hombre en pisar la Luna?",
+      "opciones": ["William Shakespears", "Miguel de Cervantes", "Edgar Allan Poe", "Agatha Christie"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Turquía?",
+      "opciones": ["Ag", "O", "Mg", "Au"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el país más pequeño del mundo?",
+      "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué vitamina se obtiene principalmente del sol?",
+      "opciones": ["Júpiter", "Saturno", "Tierra", "Marte"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el segundo planeta del sistema solar?",
+      "opciones": ["1492", "1536", "1412", "1821"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Qué escritor creó a Sherlock Holmes?",
+      "opciones": ["Córdoba", "Buenos Aires", "Mar de Plata", "Lima"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Canadá?",
+      "opciones": ["Cronómetro", "Barómetro", "Balanza", "Termómetro"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué elemento químico tiene el símbolo Fe?",
+      "opciones": ["Inglés", "Español", "Chino mandarín", "Portugués"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Cuál es el país con más islas en el mundo?",
+      "opciones": ["Perro", "Gato", "Gallina", "Murciélago"],
+      "correcta": 3
+    }
+  ],
+
+
+  "6": [
+    {
+      "pregunta": "¿Cuál es el desierto más grande del mundo?",
+      "opciones": ["India", "Colombia", "China", "Japón"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Quién fue el primer hombre en pisar la Luna?",
+      "opciones": ["William Shakespears", "Miguel de Cervantes", "Edgar Allan Poe", "Agatha Christie"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Turquía?",
+      "opciones": ["Ag", "O", "Mg", "Au"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el país más pequeño del mundo?",
+      "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué vitamina se obtiene principalmente del sol?",
+      "opciones": ["Júpiter", "Saturno", "Tierra", "Marte"],
+      "correcta": 1
+    },
+    {
+      "pregunta": "¿Cuál es el desierto más grande del mundo?",
+      "opciones": ["India", "Colombia", "China", "Japón"],
+      "correcta": 3
+    },
+    {
+      "pregunta": "¿Quién fue el primer hombre en pisar la Luna?",
+      "opciones": ["William Shakespears", "Miguel de Cervantes", "Edgar Allan Poe", "Agatha Christie"],
+      "correcta": 2
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Turquía?",
+      "opciones": ["Ag", "O", "Mg", "Au"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Cuál es el país más pequeño del mundo?",
+      "opciones": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+      "correcta": 4
+    },
+    {
+      "pregunta": "¿Qué vitamina se obtiene principalmente del sol?",
+      "opciones": ["Júpiter", "Saturno", "Tierra", "Marte"],
+      "correcta": 1
+    },
+}
+
+
